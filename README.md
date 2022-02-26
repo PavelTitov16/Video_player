@@ -1,2 +1,2 @@
-# paveltitov16-JSFEPRESCHOOL
-Private repository for @paveltitov16
+## Video ##
+https://paveltitov16.github.io/Video_player/custom-video/
